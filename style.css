@@ -1,0 +1,90 @@
+.pole {
+  border: solid black 1px;
+  width: 20px;
+  height: 20px;
+  float: left;
+}
+
+.koniec {
+  clear: both;
+}
+
+.sciana {
+  background-color: black;
+}
+
+.jabko {
+  background-image: url(./img/jablko.png);
+}
+
+.head {
+  background-color: white;
+}
+
+.head-p {
+  background-image: url(./img/glowa-p.png);
+}
+
+.head-g {
+  background-image: url(./img/glowa-g.png);
+}
+
+.head-d {
+  background-image: url(./img/glowa-d.png);
+}
+
+.head-l {
+  background-image: url(./img/glowa-l.png);
+}
+
+.ogonek {
+  background-color: white;
+}
+
+.ogonek-l {
+  background-image: url(./img/ogon-l.png);
+}
+
+.ogonek-p {
+  background-image: url(./img/ogon-p.png);
+}
+
+.ogonek-d {
+  background-image: url(./img/ogon-d.png);
+}
+
+.ogonek-g {
+  background-image: url(./img/ogon-g.png);
+}
+
+.body-d-g {
+  background-image: url(./img/body-d-g.png);
+}
+
+.body-l-p {
+  background-image: url(./img/body-l-p.png);
+}
+
+.body-g-d {
+  background-image: url(./img/body-g-d.png);
+}
+
+.body-p-l {
+  background-image: url(./img/body-p-l.png);
+}
+
+.skret-d-l {
+  background-image: url(./img/skret-d-l.png);
+}
+
+.skret-d-p {
+  background-image: url(./img/skret-d-p.png);
+}
+
+.skret-g-l {
+  background-image: url(./img/skret-g-l.png);
+}
+
+.skret-g-p {
+  background-image: url(./img/skret-g-p.png);
+}
