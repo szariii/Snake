@@ -20,3 +20,7 @@
   </li>
   <li>Open index.html</li>
 </ol>
+
+<h2>Screenshots</h2>
+<img src="./img/github/img1.jpg" alt="img1">
+<img src="./img/github/img2.jpg" alt="img2">
